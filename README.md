@@ -9,6 +9,5 @@ Istanza_A contains instance files for CVR Problems, with different number of veh
 
 Made by: 
 Leonardo Sole
-Luigi Scotto Rosato
 
 From: University of naples Federico ii
